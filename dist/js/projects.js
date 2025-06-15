@@ -1,58 +1,47 @@
 const projects = [
     {
-        name: "Woodwork",
+        name: "Woodwork Datapack",
         description: "Woodwork is a Minecraft Datapack for 1.21.+",
-        repoUrl: "https://github.com/SurGOI/Woodwork",
-        image: "https://raw.githubusercontent.com/SurGOI/Woodwork/refs/heads/main/readme.png",
-        download: "https://github.com/SurGOI/Woodwork/releases/download/R1.0.0/Woodwork.R1.0.0-1.21.+.zip",
+        repoUrl: "https://github.com/surgamingoninsulin/Woodwork-Datapack",
+        image: "https://raw.githubusercontent.com/surgamingoninsulin/Woodwork-Datapack/refs/heads/main/readme.png",
+        download: "https://github.com/surgamingoninsulin/Woodwork-Datapack/releases/download/V1.0.0-1.21.4/Woodwork.R1.0.0-1.21.+.zip",
         downloadEnabled: true,
-        sourceEnabled: true,  // Controls Source button visibility
-        previewEnabled: false,  // Controls Preview button visibility
-        previewUrl: "#" // Replace with actual preview/demo URL
+        sourceEnabled: true, 
+        previewEnabled: false, 
+        previewUrl: "#"
     },
     {
         name: "Scrap Mappy",
         description: "Scrap Mappy is a Scrap Mechanic Map Previewer.",
-        repoUrl: "https://github.com/SurGOI/ScrapMappy",
-        image: "https://raw.githubusercontent.com/SurGOI/ScrapMappy/refs/heads/main/readme.png",
+        repoUrl: "https://github.com/surgamingoninsulin/Scrap-Mappy",
+        image: "https://raw.githubusercontent.com/surgamingoninsulin/Scrap-Mappy/refs/heads/main/readme.png",
         download: "#",
         downloadEnabled: false,
         sourceEnabled: true,
         previewEnabled: true, // This project has no preview/demo
-		previewUrl: "https://surgoi.github.io/ScrapMappy/" // Replace with actual preview/demo URL
+		previewUrl: "https://surgamingoninsulin.github.io/Scrap-Mappy/"
     },
     {
-        name: "StationFM",
+        name: "Radio Station FM",
         description: "A Personal Radio Station Platform",
-        repoUrl: "https://github.com/SurGOI/StationFM",
-        image: "https://raw.githubusercontent.com/SurGOI/StationFM/refs/heads/main/readme.png",
+        repoUrl: "https://github.com/surgamingoninsulin/Radio-Station-FM",
+        image: "https://raw.githubusercontent.com/surgamingoninsulin/Radio-Station-FM/refs/heads/main/readme.png",
         download: "#",
         downloadEnabled: false,
         sourceEnabled: true,
         previewEnabled: true,
-        previewUrl: "https://surgoi.github.io/StationFM/"
+        previewUrl: "https://surgamingoninsulin.github.io/Radio-Station-FM/"
     },
     {
-        name: "NSVault",
-        description: "A Personal Vault for Nintendo Switch",
-        repoUrl: "https://github.com/SurGOI/NSVault",
-        image: "https://raw.githubusercontent.com/SurGOI/NSVault/refs/heads/main/readme.png",
-        download: "#",
-        downloadEnabled: false,
-        sourceEnabled: true,
-        previewEnabled: true,
-        previewUrl: "https://surgoi.github.io/NSVault/"
-    },
-    {
-        name: "MC-Modpacks",
+        name: "Minecraft Modpacks",
         description: "A Personal Place for my Minecraft Modpacks",
-        repoUrl: "https://github.com/SurGOI/MC-Modpacks",
-        image: "#",
+        repoUrl: "https://github.com/surgamingoninsulin/Minecraft-Modpacks",
+        image: "https://raw.githubusercontent.com/surgamingoninsulin/Minecraft-Modpacks/refs/heads/main/readme.png",
         download: "#",
         downloadEnabled: false,
         sourceEnabled: true,
         previewEnabled: true,
-        previewUrl: "https://surgoi.github.io/MC-Modpacks/"
+        previewUrl: "https://surgamingoninsulin.github.io/Minecraft-Modpacks/"
     }
 ];
 
