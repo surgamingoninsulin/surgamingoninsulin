@@ -4,7 +4,7 @@ const projects = [
         description: "Woodwork is a Minecraft Datapack for 1.21.+",
         repoUrl: "https://github.com/surgamingoninsulin/Woodwork-Datapack",
         image: "https://raw.githubusercontent.com/surgamingoninsulin/Woodwork-Datapack/refs/heads/main/readme.png",
-        download: "https://github.com/surgamingoninsulin/Woodwork-Datapack/releases/download/V1.0.0-1.21.4/Woodwork.R1.0.0-1.21.+.zip",
+        download: "https://github.com/surgamingoninsulin/Woodwork-Datapack/releases/download/V1.0.0-1.21.4/Woodwork.Datapack.V1.0.0-1.21.4.zip",
         downloadEnabled: true,
         sourceEnabled: true, 
         previewEnabled: false, 
