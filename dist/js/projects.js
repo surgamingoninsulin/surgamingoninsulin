@@ -42,6 +42,17 @@ const projects = [
         sourceEnabled: true,
         previewEnabled: true,
         previewUrl: "https://surgamingoninsulin.github.io/Minecraft-Modpacks/"
+    },
+    {
+        name: "Youtube MP3 Downloader",
+        description: "A Youtube MP3 Downloader for easy downloading playlists. <br><br>  (opend google drive link!)",
+        repoUrl: "#",
+        image: "dist/img/muziek.png",
+        download: "https://drive.google.com/uc?export=download&id=1zo-HQw3SixTu-7nCdtWfnv8t7GuIPXih",
+        downloadEnabled: true,
+        sourceEnabled: false,
+        previewEnabled: false,
+        previewUrl: "#"
     }
 ];
 
