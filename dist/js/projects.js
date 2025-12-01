@@ -1,11 +1,11 @@
 const projects = [
     {
-        name: "Woodwork Datapack",
-        description: "Woodwork is a Minecraft Datapack for 1.21.+",
-        repoUrl: "https://github.com/surgamingoninsulin/Woodwork-Datapack",
-        image: "https://raw.githubusercontent.com/surgamingoninsulin/Woodwork-Datapack/refs/heads/main/readme.png",
-        download: "https://github.com/surgamingoninsulin/Woodwork-Datapack/releases/download/V1.0.0-1.21.4/Woodwork.Datapack.V1.0.0-1.21.4.zip",
-        downloadEnabled: true,
+        name: "I-LLAMA Datapack Collections",
+        description: "My Collections for Minecraft Datapacks.<br><br>Sorted by all <strong>MAJOR</strong> Minecraft versions!",
+        repoUrl: "https://github.com/surgamingoninsulin/I-LLAMA_Datapack_Collections",
+        image: "https://raw.githubusercontent.com/surgamingoninsulin/I-LLAMA_Datapack_Collections/refs/heads/main/readme.png",
+        download: "#",
+        downloadEnabled: false,
         sourceEnabled: true, 
         previewEnabled: false, 
         previewUrl: "#"
