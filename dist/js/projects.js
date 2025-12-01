@@ -18,7 +18,7 @@ const projects = [
         download: "#",
         downloadEnabled: false,
         sourceEnabled: true,
-        previewEnabled: true, // This project has no preview/demo
+        previewEnabled: true,
 		previewUrl: "https://surgamingoninsulin.github.io/Scrap-Mappy/"
     },
     {
@@ -53,9 +53,19 @@ const projects = [
         sourceEnabled: false,
         previewEnabled: false,
         previewUrl: "#"
+    },
+    {
+        name: "Slime Rancher Mod Manager",
+        description: "A Mod Manager for the first game 'Slime Rancher' not mistaken for 'Slime Rancher 2'!",
+        repoUrl: "https://github.com/surgamingoninsulin/Slime-Rancher-Mod-Manager",
+        image: "https://raw.githubusercontent.com/surgamingoninsulin/GlobalImages/refs/heads/main/images/pink.ico",
+        download: "https://github.com/surgamingoninsulin/Slime-Rancher-Mod-Manager/releases/download/v1.0.1/SlimeRancherModManager-v1.0.1.exe",
+        downloadEnabled: true,
+        sourceEnabled: true,
+        previewEnabled: false,
+        previewUrl: "#"
     }
 ];
 
 
-// Export projects array
 export default projects;
