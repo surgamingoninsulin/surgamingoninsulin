@@ -11,15 +11,15 @@ const projects = [
         previewUrl: "#"
     },
     {
-        name: "Scrap Mappy",
-        description: "Scrap Mappy is a Scrap Mechanic Map Previewer.",
-        repoUrl: "https://github.com/surgamingoninsulin/Scrap-Mappy",
-        image: "https://raw.githubusercontent.com/surgamingoninsulin/Scrap-Mappy/refs/heads/main/readme.png",
-        download: "#",
-        downloadEnabled: false,
+        name: "SMScrapMapper",
+        description: "A Scrap Mechanic map With map markers (build with cursor ai)",
+        repoUrl: "https://github.com/surgamingoninsulin/SMScrapMapper",
+        image: "https://raw.githubusercontent.com/surgamingoninsulin/SMScrapMapper/refs/heads/main/_new_readme.png",
+        download: "https://github.com/surgamingoninsulin/SMScrapMapper/archive/refs/heads/main.zip",
+        downloadEnabled: true,
         sourceEnabled: true,
         previewEnabled: true,
-		previewUrl: "https://surgamingoninsulin.github.io/Scrap-Mappy/"
+		previewUrl: "https://surgamingoninsulin.github.io/SMScrapMapper/"
     },
     {
         name: "Radio Station FM",
