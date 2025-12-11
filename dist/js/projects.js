@@ -15,11 +15,11 @@ const projects = [
         description: "A Scrap Mechanic map With map markers (build with cursor ai)",
         repoUrl: "https://github.com/surgamingoninsulin/SMScrapMapper",
         image: "https://raw.githubusercontent.com/surgamingoninsulin/SMScrapMapper/refs/heads/main/_new_readme.png",
-        download: "https://github.com/surgamingoninsulin/SMScrapMapper/archive/refs/heads/main.zip",
+        download: "https://github.com/surgamingoninsulin/SMScrapMapper/releases/download/v1.0.0/SMScrapMapper-V1.0.0.exe",
         downloadEnabled: true,
         sourceEnabled: true,
         previewEnabled: true,
-		previewUrl: "https://surgamingoninsulin.github.io/SMScrapMapper/"
+		previewUrl: "https://surgamingoninsulin.github.io/preview_SMScrapMapper/"
     },
     {
         name: "Radio Station FM",
